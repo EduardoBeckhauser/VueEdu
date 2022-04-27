@@ -41,7 +41,29 @@ body {
   border-radius: 17px;
   padding: 20px;
   margin: 20px;
+  background-color: burlywood;
 }
 ul li {
   list-style-type: none;
+}
+
+.corum {
+  background-color: pink;
+
+}
+
+.cordois {
+  background-color: hsla(240, 100%, 60%, 0.515);
+}
+.cortreis {
+  background-color: rgb(44, 174, 44);
+}
+.corquatro {
+  background-color: rgb(91, 11, 91);
+}
+.corcinco {
+  background-color: rgb(245, 245, 32);
+}
+.corseis {
+  background-color: rgb(248, 52, 52);
 }
